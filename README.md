@@ -1,6 +1,6 @@
 # Laurenz Magerkurth
 
-Information security and detection engineering, with a focus on Blue Team work in the financial sector.
+Information security and detection engineering, with a focus on Blue Team work.
 
 I build and tune detection content for [Wazuh](https://wazuh.com): behavioural rules mapped to MITRE ATT&CK, with an emphasis on Living-off-the-Land techniques (GTFOBins, LOLBAS) and the kind of privilege escalation that signature-based tooling tends to miss. This repository is where I publish that work.
 
