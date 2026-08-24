@@ -11,7 +11,6 @@ Alongside it I run [magsec-IT](https://magsec-it.de), a small security practice 
 - **Detection engineering** — Wazuh rules, MITRE ATT&CK mapping, Sigma, D3FEND countermeasures.
 - **Living-off-the-Land detection** — GTFOBins and LOLBAS, behavioural rather than hash-based.
 - **Security monitoring** — Wazuh SIEM, Suricata IDS/IPS, auditd, endpoint telemetry on RHEL / Rocky Linux.
-- **Information security management** — ISMS, ISO 27002, NIS2, DORA, CIS Benchmark hardening.
 
 ## This repository
 
